@@ -1,0 +1,6 @@
+{
+  "name": "VietDub AI - Lồng tiếng & Phụ đề Video",
+  "description": "Nền tảng lồng tiếng AI và phụ đề video tự động sang tiếng Việt bằng Gemini AI và VieNeu TTS, hỗ trợ nghe thử trước danh sách giọng đọc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

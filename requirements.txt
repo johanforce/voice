@@ -1,0 +1,21 @@
+# ==========================================================
+# VieNeu TTS & VietDub AI Dependencies
+# Official Documentation: https://docs.vieneu.io/
+# ==========================================================
+
+# 1. VieNeu Python SDK (On-device Vietnamese TTS & Voice Cloning)
+# Lưu ý cho Windows:
+# Nếu gặp lỗi llama-cpp, hãy cài bằng lệnh:
+# pip install vieneu --extra-index-url https://pnnbao97.github.io/llama-cpp-python-v0.3.16/cpu/
+vieneu>=0.1.0
+
+# 2. Faster-Whisper (Nhận dạng giọng nói trích xuất timestamp)
+faster-whisper>=1.0.0
+
+# 3. Google Gemini API (Dịch ngữ cảnh tự nhiên)
+google-generativeai>=0.8.0
+
+# 4. YouTube & Media Processing
+yt-dlp>=2024.0.0
+pydub>=0.25.1
+requests>=2.31.0
