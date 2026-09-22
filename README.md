@@ -11,12 +11,3 @@ View your app in AI Studio: https://ai.studio/apps/7adee3fb-66f5-4217-aec4-dbc6d
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   python start.py
-   AQ.Ab8RN6IfOdyzA_r-59GPCEoWhJOOGDrKrj2iNPI5sS-9Z8aCig
-2. https://youtu.be/tGXX0l0CkBI?si=KjrqbdJkhjQkDurm
-
-
-"# voice" 
